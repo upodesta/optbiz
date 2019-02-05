@@ -20,13 +20,13 @@ people:
   position: CEO & Founder
   social:
     - title: globe
-      url: https://taxadvisor.ml/
+      url: https://taxadvisor.guru
     - title: globe
-      url: https://about.me/hassanbd
+      url: https://taxadvisorbd.com
     - title: globe
       url: https://upodesta.wordpress.com
-    - title: pinterest
-      url: https://www.pinterest.com/syed_hassan_ali_bd/quotes
+    - title: globe
+      url: https://taxadvisor.ml
     - title: globe
       url: https://syedhassanali.livejournal.com
     
@@ -48,8 +48,8 @@ people:
 
 # Social networks usernames (many more available: google-plus, flickr, dribbble, pinterest, instagram, tumblr, linkedin, etc.)
 social:
-  - title: github
-    url: https://github.com/HassanAndAssociatesBD
+  - title: pinterest
+    url: https://www.pinterest.com/syed_hassan_ali_bd/quotes
   - title: linkedin
     url: https://www.linkedin.com/company/hassanassociates
   - title: medium
